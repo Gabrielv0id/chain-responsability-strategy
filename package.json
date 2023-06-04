@@ -1,0 +1,25 @@
+{
+  "name": "chain-responsability-strategy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielv0id/chain-responsability-strategy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabrielv0id/chain-responsability-strategy/issues"
+  },
+  "homepage": "https://github.com/Gabrielv0id/chain-responsability-strategy#readme",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
+}
